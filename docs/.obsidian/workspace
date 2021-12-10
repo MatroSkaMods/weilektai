@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Home System.md",
-            "mode": "source"
+            "file": "home-planet.md",
+            "mode": "preview"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home System.md",
+                "file": "home-planet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -78,8 +78,17 @@
                 "unlinkedCollapsed": true
               }
             }
+          },
+          {
+            "id": "1aeb5b7d6820196f",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -87,13 +96,14 @@
   },
   "active": "d6bfeafd4b3e5c6a",
   "lastOpenFiles": [
-    "Home System.md",
+    "home-planet.md",
+    "home-system.md",
+    "Technology/weia.md",
+    "Technology/nelewei.md",
+    "Notes/notes.md",
+    "Language/language.md",
+    "Events/the-great-extinction.md",
     "index.md",
-    "Events/The Great Extinction.md",
-    "Notes/Notes.md",
-    "Technology/Weia.md",
-    "Species/Weians.md",
-    "Technology/Nelewei.md",
-    "Home Planet.md"
+    "Species/weilektai.md"
   ]
 }

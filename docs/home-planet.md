@@ -2,15 +2,15 @@
 
 #### Quick Overview
 
-Located in the [[Home System]]
-Previous Inhabitants [[Weians]]
+Located in the [Home System](home-system)
+Previous Inhabitants: [Weilektai](Species/weilektai)
 
 | Key              | Information                      |
 |:---------------- |:-------------------------------- |
 | Planet Name      |                                  |
 | Distance to star | 0.291 AU                         |
 | Number of moons  | 3                                |
-| Current Status   | [[The Great Extinction\|Barren]] |
+| Current Status   | [[the-great-extinction\|Barren]] |
 | Life             | None                             |
   
 ---

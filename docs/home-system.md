@@ -1,5 +1,5 @@
 ### Home System
-###### NOTE: [[The Great Extinction|THIS STAR SYSTEM IS LIFELESS]]
+###### NOTE: [THIS STAR SYSTEM IS LIFELESS](./Events/the-great-extinction)
 
 | Keys | Description        | Additional Info              |
 |:---- |:------------------ |:---------------------------- |

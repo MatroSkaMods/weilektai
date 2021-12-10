@@ -1,5 +1,5 @@
 #### Weia
 
 Technology Type: Megastructure (Ringworld)
-Inhabitants: [[Weians]]
+Inhabitants: [[weilektai]]
 Location: Orbiting the galaxy's central supermassive black hole
