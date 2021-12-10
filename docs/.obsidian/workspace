@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "home-planet.md",
-            "mode": "preview"
+            "file": "home-system.md",
+            "mode": "source"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "home-planet.md",
+                "file": "home-system.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,8 +96,8 @@
   },
   "active": "d6bfeafd4b3e5c6a",
   "lastOpenFiles": [
-    "home-planet.md",
     "home-system.md",
+    "home-planet.md",
     "Technology/weia.md",
     "Technology/nelewei.md",
     "Notes/notes.md",
