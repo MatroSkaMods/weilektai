@@ -1,6 +1,6 @@
 # Weilektai
 
-#### Note to editors: vault path is 
+#### Note to editors: Obsidian vault path is 
 ```
 /weilektai/docs/
 ```
