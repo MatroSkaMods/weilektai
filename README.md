@@ -4,3 +4,9 @@
 ```
 /weilektai/docs/
 ```
+
+#### Do not Deploy without permission!
+```
+cd weilektai
+mkdocs gh-deploy
+```
