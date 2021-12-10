@@ -1,0 +1,99 @@
+{
+  "main": {
+    "id": "29e94c6019326842",
+    "type": "split",
+    "children": [
+      {
+        "id": "d6bfeafd4b3e5c6a",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Home System.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6adcb89ad5ae9953",
+    "type": "split",
+    "children": [
+      {
+        "id": "94db24c28a792e7d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "eb5b3ac20579832a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "5793f0b5d365d98d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "7eee2600e07e9bb3",
+    "type": "split",
+    "children": [
+      {
+        "id": "815475a78931d9b2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7bb854e047bae79f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Home System.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 251
+  },
+  "active": "d6bfeafd4b3e5c6a",
+  "lastOpenFiles": [
+    "Home System.md",
+    "index.md",
+    "Events/The Great Extinction.md",
+    "Notes/Notes.md",
+    "Technology/Weia.md",
+    "Species/Weians.md",
+    "Technology/Nelewei.md",
+    "Home Planet.md"
+  ]
+}
