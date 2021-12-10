@@ -10,7 +10,7 @@
           "type": "markdown",
           "state": {
             "file": "Species/weilektai.md",
-            "mode": "preview"
+            "mode": "source"
           }
         }
       }
@@ -97,13 +97,13 @@
   "active": "d6bfeafd4b3e5c6a",
   "lastOpenFiles": [
     "Species/weilektai.md",
-    "Technology/nelewei.md",
     "Languages/weilektai-language.md",
-    "Notes/notes.md",
+    "Events/the-great-extinction.md",
     "Technology/weia.md",
+    "Technology/nelewei.md",
+    "Notes/notes.md",
     "home-planet.md",
     "home-system.md",
-    "index.md",
-    "Events/the-great-extinction.md"
+    "index.md"
   ]
 }

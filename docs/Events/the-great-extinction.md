@@ -4,7 +4,7 @@ An instantaneous solar flare synced at the north pole of every single star in th
 
 The intense solar flares wiped out life on every planet close to a star.
 
-Research on the cause is currently being conducted at [Nelewei](../Technology/nelewei.md).
+Research on the cause is currently being conducted at [Nelewei](../../Technology/nelewei.md).
 
 <!---
 
