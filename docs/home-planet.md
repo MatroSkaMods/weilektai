@@ -2,23 +2,16 @@
 
 #### Quick Overview
 
-Located in the [Home System](home-system)
-Previous Inhabitants: [Weilektai](Species/weilektai)
+Located in the [Home System](../home-system)
+Previous Inhabitants: [Weilektai](../Species/weilektai)
 
-| Key              | Information                      |
-|:---------------- |:-------------------------------- |
-| Planet Name      |                                  |
-| Distance to star | 0.291 AU                         |
-| Number of moons  | 3                                |
-| Current Status   | [[the-great-extinction\|Barren]] |
-| Life             | None                             |
-  
----
-
-### Index
-1. [[#Quick Overview]]
-2. [[#Description]]
-3. [[#Flora]]
+| Key              | Information                              |
+|:---------------- |:---------------------------------------- |
+| Planet Name      |                                          |
+| Distance to star | 6.692 AU                                 |
+| Number of moons  | 3                                        |
+| Current Status   | [Barren](../Events/the-great-extinction) |
+| Life             | None                                     |
 
 ---
 

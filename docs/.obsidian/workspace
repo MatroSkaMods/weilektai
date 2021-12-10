@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "home-system.md",
+            "file": "Species/weilektai.md",
             "mode": "preview"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "home-system.md",
+                "file": "Species/weilektai.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,14 +96,14 @@
   },
   "active": "d6bfeafd4b3e5c6a",
   "lastOpenFiles": [
-    "home-system.md",
-    "home-planet.md",
-    "Technology/weia.md",
+    "Species/weilektai.md",
     "Technology/nelewei.md",
+    "Languages/weilektai-language.md",
     "Notes/notes.md",
-    "Language/language.md",
-    "Events/the-great-extinction.md",
+    "Technology/weia.md",
+    "home-planet.md",
+    "home-system.md",
     "index.md",
-    "Species/weilektai.md"
+    "Events/the-great-extinction.md"
   ]
 }
