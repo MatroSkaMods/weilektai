@@ -1,4 +1,4 @@
-### Weilektai
+## Weilektai
 
 #### Diet
 * Omnivorous (Mostly fungus)

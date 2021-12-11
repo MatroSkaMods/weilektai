@@ -1,4 +1,4 @@
-### Language
+## Language
 * Language Type: Phonegraph
 
 #### Phonology

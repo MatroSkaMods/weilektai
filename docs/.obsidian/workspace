@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Technology/weia.md",
-            "mode": "preview"
+            "file": "Developer Notes/notes.md",
+            "mode": "source"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Technology/weia.md",
+                "file": "Developer Notes/notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,14 +96,15 @@
   },
   "active": "d6bfeafd4b3e5c6a",
   "lastOpenFiles": [
-    "Technology/weia.md",
-    "Technology/nelewei.md",
-    "home-planet.md",
-    "Species/weilektai.md",
-    "Languages/weilektai-language.md",
+    "Developer Notes/notes.md",
     "Events/the-great-extinction.md",
-    "Notes/notes.md",
+    "Languages/weilektai-language.md",
+    "Societies/weilektai-society.md",
+    "Species/weilektai.md",
+    "index.md",
+    "home-planet.md",
     "home-system.md",
-    "index.md"
+    "Technology/weia.md",
+    "Technology/nelewei.md"
   ]
 }

@@ -1,4 +1,4 @@
-### The Great Extinction
+## The Great Extinction
 
 An instantaneous solar flare synced at the north pole of every single star in the galaxy, creating a force so powerful that it turned the entire galaxy into a shkadov thruster for a brief moment. 
 
