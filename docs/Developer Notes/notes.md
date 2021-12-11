@@ -3,9 +3,9 @@
 #### READ AT YOUR OWN RISK
 
 ---
-##### A conversation between Skahdi and Artax
-##### Re: Society
-```
+### A conversation between Skahdi and Artax
+#### Re: Society
+
 Artax:
 What kind of culture and hierarchy do they have!
 
@@ -44,5 +44,5 @@ since they're omnivores.
 When the species became more civilized, 
 they started harvesting those plants to create proper 
 light sources and ink for writing and drawing their history on the cave walls
-```
+
 ---
