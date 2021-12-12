@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Species/Non-Sentient/flower-reptiles.md",
+            "file": "Languages/weilektai-language.md",
             "mode": "preview"
           }
         }
@@ -52,7 +52,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 191
   },
   "right": {
     "id": "7eee2600e07e9bb3",
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Species/Non-Sentient/flower-reptiles.md",
+                "file": "Languages/weilektai-language.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,15 +92,15 @@
       }
     ],
     "direction": "horizontal",
-    "width": 251
+    "width": 132
   },
   "active": "d6bfeafd4b3e5c6a",
   "lastOpenFiles": [
+    "Languages/weilektai-language.md",
     "Species/Non-Sentient/flower-reptiles.md",
     "Species/Sentient/weilektai.md",
     "Developer Notes/notes.md",
     "Events/the-great-extinction.md",
-    "Languages/weilektai-language.md",
     "Societies/weilektai-society.md",
     "index.md",
     "home-planet.md",
