@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Developer Notes/notes.md",
-            "mode": "source"
+            "file": "Species/Non-Sentient/Flower Reptiles.md",
+            "mode": "preview"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Developer Notes/notes.md",
+                "file": "Species/Non-Sentient/Flower Reptiles.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,15 +96,15 @@
   },
   "active": "d6bfeafd4b3e5c6a",
   "lastOpenFiles": [
+    "Species/Non-Sentient/Flower Reptiles.md",
+    "Species/Sentient/weilektai.md",
     "Developer Notes/notes.md",
     "Events/the-great-extinction.md",
     "Languages/weilektai-language.md",
     "Societies/weilektai-society.md",
-    "Species/weilektai.md",
     "index.md",
     "home-planet.md",
     "home-system.md",
-    "Technology/weia.md",
-    "Technology/nelewei.md"
+    "Technology/weia.md"
   ]
 }
