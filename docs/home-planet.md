@@ -3,7 +3,7 @@
 #### Quick Overview
 
 Located in the [Home System](../home-system)  
-Previous Inhabitants: [Weilektai](../Species/weilektai)
+Previous Inhabitants: [Weilektai](weilektai.md)
 
 | Key              | Information                              |
 |:---------------- |:---------------------------------------- |

@@ -1,3 +1,3 @@
 ## Weilektai Society
-#### The evolution of [Weilektai](../../Species/weilektai) Society
+#### The evolution of [Weilektai](weilektai.md) Society
 
